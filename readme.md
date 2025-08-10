@@ -11,3 +11,9 @@
 6. Run `upload.sh`
 7. Unmount SD card
 
+# Known Good Firmware
+
+There's also a `known-good-firmware-xxxxxxx.bin` in the repo,
+in case some firmware doesn't work but you want to print something.
+`xxxxxxx` is the commit hash the firmware was built from.
+
